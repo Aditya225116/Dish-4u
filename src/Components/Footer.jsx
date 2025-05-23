@@ -18,7 +18,7 @@ const Footer = () => {
               About Us
             </h3>
             <p className="text-gray-400 leading-relaxed">
-              At <span className="text-white font-semibold">The Hungry Chef</span>, we serve more than food – we create memories. Join us to taste the difference.
+              At <span className="text-white font-semibold">Dish 4U</span>, we serve more than food – we create memories. Join us to taste the difference.
             </p>
           </div>
 
@@ -79,7 +79,7 @@ const Footer = () => {
 
         
         <div className="mt-16 pt-8 border-t border-gray-700 text-center text-gray-500 text-sm">
-          &copy; {new Date().getFullYear()} The Hungry Chef. All rights reserved.
+          &copy; {new Date().getFullYear()} Dish 4u. All rights reserved.
         </div>
       </div>
     </footer>
